@@ -87,6 +87,31 @@ industry using FTS are insufficient \[9\]. The implementation of FTS, if not cor
 * Communication challenge:  This difficulty occurs due to the increasing of the number of teams allocated to the project and consequently loss of communication richness. Solving a problem that need intense communication across teams is hard to do since each team’s working time is not on the same time or if there is intersection time, it will be used to handing off the work. The communication challenges in FTS are associated mainly to the lack of synchronous communication between distributed teams \[11\].
 * Cultural challenge: Culture differences challenges are associated to the socio-cultural diversity present in FTS development environments. It is determined mainly by social, ethnic and cultural aspects [12\]. For example, the usual problems of supporting collaboration are compounded by language and diversity \[13\]. In addition, if one culture has more emphasis on self sufficiency, therefore they tend not to ask for help when problems come up. Another culture would not offer their help unless they were asked while the third considered that presenting the problem was a sufficient invitation for a willing team members to jump in and help.
 
+# [](#header-1) Research themes
+
+## [](#header-2) Best practices
+Research in Follow-the-Sun software development has been done since 1990. Results are generally best practices to improve the methodology and challenges. This literature survey \[14\] listed 36 best practices and 17 challenges for Follow-the-Sun software development from research between 1990 and 2012.
+
+## [](#header-2) Location selection
+This research \[15\] introduced a routing model, which supports the selection of geographical locations for Follow-the-Sun software development. The research focussed on two aspects: "the optimal time zone difference" and "the natural ease of communication" (i.e. culture and language). The model makes use of a database of locations that contain demographic data about these locations. The result of the study was a website on which a possible optimal route of geograhpical locations for Follow-the-Sun software development could be calculated.
+
+Another research \[9\] looked at the impact of the number of sites on working speed and accuracy in Follow-the-Sun software development. In this case accuracy is "the degree in which the produced work represents the expected work". Overall it was found that increasing the number of sites in a daily cycle increased the working speed. The number of sites had only a small impact on the accuracy.
+
+## [](#header-2) Hand-offs management
+Since hand-offs are such an important aspect of Follow-the-Sun software development, recent research studied hand-offs management \[16\]. It was concluded that nine aspects of management are important for improving hand-offs efficiency (directly taken from \[16\]):
+
+* Improving communication quality
+* Ensure knowledge transfer between team members and production sites
+* Management of hand-off's information
+* Developing team's trust before and along the project
+* Ensure compliance of deadlines
+* Establishing time rules
+* Providing proper technology and tools
+* Delegating responsibility
+* Coordination of task allocation
+
+Since these aspects above are reported to increase efficiency, it was also concluded that when these aspects are taken into account the duration of the project is reduced.
+
 # [](#header-1) References
 \[1\] Carmel, E., Espinosa, J. A., & Dubinsky, Y. (2010). " Follow the Sun" Workflow in Global Software Development. Journal of Management Information Systems, 27(1), 17-38. <!---carmel2010follow-->
 
@@ -114,3 +139,11 @@ industry using FTS are insufficient \[9\]. The implementation of FTS, if not cor
 Advances in Software Engineering, 2009:3, 2009. <!---jimenez2009challenges--->
 
 \[13\] Alex Cameron. A novel approach to distributed concurrent software development using a follow-the-sun technique. Unpublished EDS working paper, 2004. <!---cameron2004novel--->
+
+\[14\] Josiane Kroll, Sajid Ibrahim Hashmi, Ita Richardson, and Jorge LN Audy. A systematic literature review of best practices and challenges in follow-the-sun software development. In Global Software Engineering Workshops (ICGSEW), 2013 IEEE 8th International Conference on, pages 18–23. IEEE, 2013. <!---kroll2013systematic--->
+
+\[15\] Christian Visser and Rini van Solingen. Selecting locations for follow-the-sun software development: Towards a routing model. In Global Software Engineering, 2009. ICGSE 2009. Fourth IEEE International Conference
+on, pages 185–194. IEEE, 2009. <!---visser2009selecting--->
+
+\[16\] Josiane Kroll, Ita Richardson, Jorge LN Audy, and Jude Fernandez. Handoffs management in follow-the-sun software projects: a case study. In
+System Sciences (HICSS), 2014 47th Hawaii International Conference on, pages 331–339. IEEE, 2014. <!---kroll2014handoffs--->
