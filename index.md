@@ -76,7 +76,16 @@ Some other day to day tasks enabled by software include – logging time spent b
 
 The effective utilization of code repositories and version control management systems is crucial to the success of FTS approach. It is quite possible that hundreds of software developers and testers can be working on a project in cycles. Most of the current code repositories are cloud based and accessible across geographies. In this distributed model, the CIA \[8\] triad of Confidentiality, Integrity and Availability of service and data assumes paramount importance. This infrastructure must always be available on demand and accessible. Tools to support data security and encryption such as VPN’s are also important. The ability of project management tools to integrate with development tools can help reduce the duration of project cycles in FTS.
 
-Modes of communication in FTS approach may be asynchronous or synchronous. The geographically dispersed nature requires the use of software applications which facilitate tele-conferencing, VoIP calling, instant messaging etc. Knowledge transfer and sharing of project critical information with concerned parties is essential for smooth operation of the project. Formal systems such as discussion forums or internal Wiki sites may prove to be useful. If communication issues are not addressed they might create significant challenges in FTS adoption.  
+Modes of communication in FTS approach may be asynchronous or synchronous. The geographically dispersed nature requires the use of software applications which facilitate tele-conferencing, VoIP calling, instant messaging etc. Knowledge transfer and sharing of project critical information with concerned parties is essential for smooth operation of the project. Formal systems such as discussion forums or internal Wiki sites may prove to be useful. If communication issues are not addressed they might create significant challenges in FTS adoption.
+
+# [](#header-1) Limitations of FTS
+
+FTS has many challenges associated with it and it also faces same challenges of GSD as it is a part of GSD.  The success cases in the
+industry using FTS are insufficient \[9\]. The implementation of FTS, if not correct, may result in failures and over budget projects \[10\]. According to Carmel \[1\], FTS has challenges such as coordination barriers, cultural differences, and communication difficulties.
+
+* Coordination challenge: When more than one site is added to the project, this increases the difficulties to coordinate aspects that involve team management, and cultural and geographical differences \[6\]. For example, daily handoffs are difficult to coordinate due to the difficulty of resolving task issues across sites/shifts, and the cross-site coordination cost will most likely be positive and nontrivial. If a team hands off a work to other team, the problem can get worse if the other team doesn't understand correctly about the problem or introduce a new problem.
+* Communication challenge:  This difficulty occurs due to the increasing of the number of teams allocated to the project and consequently loss of communication richness. Solving a problem that need intense communication across teams is hard to do since each team’s working time is not on the same time or if there is intersection time, it will be used to handing off the work. The communication challenges in FTS are associated mainly to the lack of synchronous communication between distributed teams \[11\].
+* Cultural challenge: Culture differences challenges are associated to the socio-cultural diversity present in FTS development environments. It is determined mainly by social, ethnic and cultural aspects [12\]. For example, the usual problems of supporting collaboration are compounded by language and diversity \[13\]. In addition, if one culture has more emphasis on self sufficiency, therefore they tend not to ask for help when problems come up. Another culture would not offer their help unless they were asked while the third considered that presenting the problem was a sufficient invitation for a willing team members to jump in and help.
 
 # [](#header-1) References
 \[1\] Carmel, E., Espinosa, J. A., & Dubinsky, Y. (2010). " Follow the Sun" Workflow in Global Software Development. Journal of Management Information Systems, 27(1), 17-38. <!---carmel2010follow-->
@@ -93,4 +102,15 @@ Modes of communication in FTS approach may be asynchronous or synchronous. The g
 
 \[7\] Yap, M. (2005, July). Follow the sun: distributed extreme programming development. In Agile Conference, 2005. Proceedings (pp. 218-224). IEEE. <!---yap2005follow--->
 
-\[8\]  Doerr, C. (2017). Network Security in Theory and Practice. <!---NetworkSecurity--->
+\[8\] Doerr, C. (2017). Network Security in Theory and Practice. <!---NetworkSecurity--->
+
+\[9\] Rini van Solingen and Menno Valkema. The impact of number of sites in a follow the sun setting on the actual and perceived working speed and accuracy:  A controlled experiment. In Global Software Engineering (ICGSE), 2010 5th IEEE International Conference on, pages 165–174. IEEE, 2010. <!---van2010impact--->
+
+\[10\] Eoin Ó Conchúir, Helena Holmstrom Olsson, Par J Agerfalk, and Brian Fitzgerald. Global software development: never mind the problems – are there really any benefits? 2006. <!---o2006global--->
+
+\[11\] Siri-on Setamanit, Wayne Wakeland, and David Raffo. Improving global software development project performance using simulation. In Management of Engineering and Technology, Portland International Center for, pages 2458–2466. IEEE, 2007. <!---setamanit2007improving--->
+
+\[12\] Miguel Jiménez, Mario Piattini, and Aurora Vizcaíno. Challenges and improvements in distributed software development: A systematic review.
+Advances in Software Engineering, 2009:3, 2009. <!---jimenez2009challenges--->
+
+\[13\] Alex Cameron. A novel approach to distributed concurrent software development using a follow-the-sun technique. Unpublished EDS working paper, 2004. <!---cameron2004novel--->
