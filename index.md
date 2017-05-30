@@ -96,7 +96,13 @@ FTS philosophy raises several important questions regarding overall project mana
 5. Knowledge transfer <br/>
 Continuous sharing and dissemination of knowledge is one of the deciding factors for the success of FTS approach. Use of knowledge management tools to capture crucial information ensures that information is shared and available to all the stakeholders irrespective of physical location.
 
-# [](#header-1) 8   FTS examples in the industry
+# [](#header-1) 8   Real world examples of FTS
+One of the ways to evaluate the efficiency of FTS is to compare the time taken to execute a project using traditional software development approaches vs FTS. Apart from the usual difficulties faced in globally distributed software development, FTS also has the additional challenges of managing daily job hand-offs. It is interesting to note that there have been very few documented cases of successful FTS application in the software industry.
+
+IBM in 1990’s was probably one of the first companies to record the implementation of FTS in its software development teams globally \[1\]. This project involved five global teams distributed across five different countries. The initiative was unsuccessful, and the project was ultimately implemented using only the essential principles of global software development.
+
+Treinen and Miller Frost \[19\] published a case documenting two cases of FTS implementation at IBM. The first one involved a software development project consisting of teams in the United States and Australia and met with high degree of success. The second case study involved three distinct projects with development sites in the United States and India, and met with drastic failure. Several reasons such as misinterpretation of specifications, multiple rework cycles, lack of proper coordination and communication between teams, time zone issues and cultural differences were attributed to the project’s failure.
+
 In 2004 a study conducted within the company of WDSGlobal reported the following list of what worked in FTS software development (when doing Extreme Programming) \[7\]:
 
 * Daily handovers
@@ -130,6 +136,11 @@ Major lessons learned in the study that could improve FTS from their experience 
 * Assign tasks to a composite persona owner \[17\]
 
 It was also observed that hand-offs between different sites was especially difficult in the weekends, since there is no overlap during the hand-off and the hand off happens, for example, via e-mail, instead of via the phone or other communication tool.
+
+Another documented case of FTS application was by Infosys\[20\] in 2005 where FTS was applied to small subsets of the project cycle. Infosys concluded that applicability of FTS was limited and highly specific to the nature of the task at hand. Cameron\[13\] highlights the example of FTS application at EDS (now a part of HP).
+
+Based on these observations and the results presented in literature it can be said that FTS approach is not widely used in practice because of its limitations and challenges.
+
 
 # [](#header-1) 9   Advantages of FTS approach
 
