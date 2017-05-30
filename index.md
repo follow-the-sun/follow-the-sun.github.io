@@ -150,9 +150,10 @@ industry using FTS are insufficient \[9\]. The implementation of FTS, if not cor
 * Cultural challenge: Culture differences challenges are associated to the socio-cultural diversity present in FTS development environments. It is determined mainly by social, ethnic and cultural aspects [12\]. For example, the usual problems of supporting collaboration are compounded by language and diversity \[13\]. In addition, if one culture has more emphasis on self sufficiency, therefore they tend not to ask for help when problems come up. Another culture would not offer their help unless they were asked while the third considered that presenting the problem was a sufficient invitation for a willing team members to jump in and help.
 
 # [](#header-1) Research themes
+In this section we give a number of research themes within Follow-the-Sun software development research. We identified three main themes, namely challenges and best practices, location selection and hand-offs management.
 
-## [](#header-2) Best practices
-Research in Follow-the-Sun software development has been done since 1990. Results are generally best practices to improve the methodology and challenges. This literature survey \[14\] listed 36 best practices and 17 challenges for Follow-the-Sun software development from research between 1990 and 2012.
+## [](#header-2) Challenges and best practices
+Research in Follow-the-Sun software development has been done since 1990. Results are generally from case or field studies, resulting in identified challenges and best practices to improve the methodology. This literature survey \[14\] listed 36 best practices and 17 challenges for Follow-the-Sun software development from research between 1990 and 2012.
 
 ## [](#header-2) Location selection
 This research \[15\] introduced a routing model, which supports the selection of geographical locations for Follow-the-Sun software development. The research focussed on two aspects: "the optimal time zone difference" and "the natural ease of communication" (i.e. culture and language). The model makes use of a database of locations that contain demographic data about these locations. The result of the study was a website on which a possible optimal route of geograhpical locations for Follow-the-Sun software development could be calculated.
@@ -160,7 +161,7 @@ This research \[15\] introduced a routing model, which supports the selection of
 Another research \[9\] looked at the impact of the number of sites on working speed and accuracy in Follow-the-Sun software development. In this case accuracy is "the degree in which the produced work represents the expected work". Overall it was found that increasing the number of sites in a daily cycle increased the working speed. The number of sites had only a small impact on the accuracy.
 
 ## [](#header-2) Hand-offs management
-Since hand-offs are such an important aspect of Follow-the-Sun software development, recent research studied hand-offs management \[16\]. It was concluded that nine aspects of management are important for improving hand-offs efficiency (directly taken from \[16\]):
+Since hand-offs are such an important aspect of Follow-the-Sun software development, recent research studied hand-offs management \[16\]. It was concluded that nine aspects of management are important for improving hand-offs efficiency \[16\]:
 
 * Improving communication quality
 * Ensure knowledge transfer between team members and production sites
