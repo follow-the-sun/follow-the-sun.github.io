@@ -164,7 +164,9 @@ industry using FTS are insufficient \[9\]. The implementation of FTS, if not cor
 In this section we give a number of research themes within Follow-the-Sun software development research. We identified three main themes, namely challenges and best practices, location selection and hand-offs management.
 
 ## [](#header-2) 11.1   Challenges and best practices
-Research in Follow-the-Sun software development has been done since 1990. Results are generally from case or field studies, resulting in identified challenges and best practices to improve the methodology. This literature survey \[14\] listed 36 best practices and 17 challenges for Follow-the-Sun software development from research between 1990 and 2012.
+Research in Follow-the-Sun software development has been done since 1990. Results are generally from case or field studies, resulting in identified challenges and best practices to improve the methodology. A literature survey by Kroll et al. listed 36 best practices and 17 challenges for Follow-the-Sun software development from research between 1990 and 2012 \[14\].
+
+Three categories of challenges were find, namely challenges in coordination (e.g. time zone difference and hand offs management), communication and culture. The top three best practices that were found in research are Agile methods, the use of technology for knowledge sharing (e.g. video calls) and process documentation.
 
 ## [](#header-2) 11.2   Location selection
 This research \[15\] introduced a routing model, which supports the selection of geographical locations for Follow-the-Sun software development. The research focussed on two aspects: "the optimal time zone difference" and "the natural ease of communication" (i.e. culture and language). The model makes use of a database of locations that contain demographic data about these locations. The result of the study was a website on which a possible optimal route of geograhpical locations for Follow-the-Sun software development could be calculated.
