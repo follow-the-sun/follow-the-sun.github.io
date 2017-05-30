@@ -182,11 +182,11 @@ Since these aspects above are reported to increase efficiency, it was also concl
 
 \[3\] Frederick P Brooks Jr. The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition, 2/E. Pearson Education India, 1995. <!--brooks1995mythical-->
 
-\[4\] Amar Gupta. Deriving mutual benefits from offshore outsourcing: The 24-hour knowledge factory scenario. 2007. <!--gupta2007deriving-->
+\[4\] AGupta, Amar. "Deriving Mutual Benefits from Offshore Outsourcing: The 24-Hour Knowledge Factory Scenario." (2007). <!--gupta2007deriving-->
 
 \[5\] Amar Gupta. The 24-hour knowledge factory: can it replace the graveyard shift? Computer, 42(1):66-73, 2009. <!--gupta200924-->
 
-\[6\] Erran Carmel, Espinosa, Yael Dubinsky, and Alberto Espinosa. Follow the sun software development: New perspectives, conceptual foundation, and exploratory eld study. Proceedings of the 42nd Hawaii International Conference on System Sciences, 2009. <!--carmel2009follow-->
+\[6\] Carmel, Erran, Yael Dubinsky, and Alberto Espinosa. "Follow the sun software development: New perspectives, conceptual foundation, and exploratory field study." System Sciences, 2009. HICSS'09. 42nd Hawaii International Conference on. IEEE, 2009. <!--carmel2009follow-->
 
 \[7\] Monica Yap. Follow the sun: distributed extreme programming development. In Agile Conference, 2005. Proceedings, pages 218{224. IEEE, 2005. <!--yap2005follow-->
 
@@ -215,3 +215,7 @@ System Sciences (HICSS), 2014 47th Hawaii International Conference on, pages 331
 \[17\] Amar Gupta, Rajdeep Bondade, and Nathan Denny. Software developmentusing the 24-hour knowledge factory paradigm.  2008. <!--gupta2008software-->
 
 \[18\] Josiane Kroll, Rafael Prikladnicki, Jorge LN Audy, Erran Carmel, and JudeFernandez.  A feasibility study of follow-the-sun software development for gsd projects.  2013. <!--kroll2013feasibility-->
+
+\[19\] Treinen, James J., and Susan L. Miller-Frost. "Following the sun: Case studies in global software development." IBM Systems Journal 45.4 (2006): 773-783. <!--reinen2006following-->
+
+\[20\] VaLUe, BUSineSS. "QUARTERLY ExECUTIVE." (2010). <!--zone2006quarterly-->
