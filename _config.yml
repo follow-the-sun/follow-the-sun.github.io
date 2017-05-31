@@ -3,3 +3,5 @@ repository: follow-the-sun/follow-the-sun.github.io
 show_downloads: false
 title: Follow the Sun
 description: An intuitive study of the state of the art "Follow the Sun" methodology applied in software development.
+gems:
+  - jekyll-seo-tag
