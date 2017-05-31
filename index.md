@@ -116,7 +116,7 @@ In 2004 a study conducted within the company of WDSGlobal reported the following
 
 The study reported the following lessons that were learned:
 
-* Balance teams, so that one team does not dominates the project.
+* Balance teams, so that one team does not dominate the project.
 * Introduce "a set of rules and pre-defined processes" so that "all of the team members know exactly what to expect from each other".
 * The problem of introducing innovation. Ideal would be a consensus among the whole team, but this is very time consuming, due to different locations and time zones.
 * Allow some flexibility in different locations with respect to shared processes.
