@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Follow the Sun
 ---
 
 # [](#header-1) 1.   Introduction
