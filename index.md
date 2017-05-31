@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#header-1) 1   Introduction
+# [](#header-1) 1.   Introduction
 
 Modern day software development is spread more and more across national and international boundaries. Global software development (GSD) is now the need of the hour more than ever. One of the important concepts evolved in the past decade or so is the "**Follow the sun**" (FTS) software development.
 
@@ -12,12 +12,12 @@ The major benefit is the development duration or the potential in reducing the t
 
 Although this seems like such an intuitive idea to work with, it is not practiced widely, misunderstood often and has had a few documented industry success cases.
 
-# [](#header-1) 2   Background
+# [](#header-1) 2.   Background
 To get a proper picture of the background on FTS, there is a need to understand a development pace and its associated concept of time to market, which are the main drivers of the development of FTS. Time to market is the amount of time it takes from the moment the product is conceived until the product is available for use or sale. This is very important especially for industries whose products become outdated in a very short time (e.g. mobile handsets, firmware, e-commerce systems, and innovative supply chain management)
 
 Many factors influence the need to develop the products quickly such as avoiding contract creep, schedule slippages, budget overruns and other managerial reasons. To fulfil this need, most firms try various strategies such as working overtime, skipping steps and setting aggressive deadlines. These are reactive in nature. But these steps will add to the increase in cost due to burnout and fatigue \[2\]. Adding more man power to the project is not of much interest in the software development, because of the wisdom gained long ago from the seminal Brooks’ law "adding manpower to a late software project makes it later” \[3\]. These difficulties prove that a systematic approach is needed in achieving a quick time-to-market strategy, which in turn leads to the *Follow the Sun* software development scheme.
 
-# [](#header-1) 3   Principles of FTS
+# [](#header-1) 3.   Principles of FTS
 In order to understand and use FTS, some key principles on which FTS is based are mentioned in this section.
 
 *   FTS is a global software development strategy.
@@ -41,7 +41,7 @@ The table in Fig. 1 gives the relevant facts regarding various working schemes. 
 ![](/images/Table1.png)
 __Figure 1: Calendar Efficiency in different Working Modes \[1\]__
 
-# [](#header-1) 4   Traditional software development vs FTS
+# [](#header-1) 4.   Traditional software development vs FTS
 
 There are several major differences between traditional globally distributed software development and the FTS approach. In traditional software development, global teams are less dependent on one another and usually do not pass on the work (hand-off). Hand-offs are the central idea of the FTS approach. The efficiency of the number of hours per day spent on actual development is much higher in the FTS model when compared with traditional software development \[1\]. This is because work happens almost round the clock, compared to just eight hour efforts in traditional software workflow. This efficiency further increases with the number of locations and shifts.
 
@@ -57,7 +57,7 @@ Several workflows seem to be using the FTS model, but in reality this is not alw
 *	Global business processes such as call centres or help desks are not counted under the FTS umbrella.
 *	Collocated multishift – locations where labour is cheap and software development happens round the clock in eight hour shifts does not fit in this category.
 
-# [](#header-1) 5   Agile and FTS
+# [](#header-1) 5.   Agile and FTS
 Agile software development practice consists of a set of principles which advocate continuous improvement, adaptive planning, early delivery and flexibility in responding to change. The various agile methodologies such as Scrum, Lean, Kanban, Extreme Programming (XP), DSDM etc., share much of the same characteristics and practices and are widely practiced in Globally Distributed Software Development. FTS is a special case of GSD which aims to achieve a 100% workday in software projects. As described by Carmel \[1\], the agile methodology is best suited for FTS.
 
 ## [](#header-2) 5.1   Traditional software development models and FTS
@@ -68,7 +68,7 @@ Agile has several characteristics which support FTS adoption \[6\]. In an Agile 
 
 Others such as Gupta \[5\] also make similar observations and propose that FTS is very well suited to support core agile practices. In a research carried out by Yap \[7\], a globally distributed software project team (UK, USA, and Singapore) followed the FTS approach under the Extreme Programming (XP) model - a form of Agile practice. Initial handoffs mainly consisted of daily work summaries, which were later augmented by knowledge transfer activities. Though the teams faced initial setbacks due to cultural differences and technical glitches, by re-orienting their thinking they could successfully implement agile practices across all locations on a single working codebase.
 
-# [](#header-1) 6   Technology tools and infrastructure to support FTS
+# [](#header-1) 6.   Technology tools and infrastructure to support FTS
 FTS approach has only a handful of documented cases of industrial success because of its nature. A part of this may be attributed to the availability of efficient tools and enabling technologies for implementing the FTS model. Software tools used for actual FTS implementation must include both managerial and technical aspects, to adapt to the changing requirements of the software development process.
 
 Tools for estimating and planning schedules, allocation of project tasks, sprint management, progress tracking are essential utilities for front line managers. Mechanisms for transferring work in progress to the next site is the core idea of FTS. The process of hand offs must be smooth and conflict free. It must also ensure that all the required information and reports to continue the work are visible and easily accessible. The focus is on using automated tools which simplify the repetitive tasks.
@@ -78,7 +78,7 @@ The effective utilization of code repositories and version control management sy
 
 Modes of communication in FTS approach may be asynchronous or synchronous. The geographically dispersed nature requires the use of software applications which facilitate tele-conferencing, VoIP calling, instant messaging etc. Knowledge transfer and sharing of project critical information with concerned parties is essential for smooth operation of the project. Formal systems such as discussion forums or internal Wiki sites may prove to be useful. If communication issues are not addressed they will create significant challenges in FTS adoption.
 
-# [](#header-1) 7   Applying the FTS Model in Practice
+# [](#header-1) 7.   Applying the FTS Model in Practice
 
 The FTS approach is based on the principle of handing-off unfinished work to the next location at the end of work day. To manage the workflow efficiently the following principles are applied in practice.
 
@@ -96,7 +96,7 @@ FTS philosophy raises several important questions regarding overall project mana
 5. Knowledge transfer <br/>
 Continuous sharing and dissemination of knowledge is one of the deciding factors for the success of the FTS approach. Use of knowledge management tools to capture crucial information ensures that information is shared and available to all the stakeholders irrespective of physical location.
 
-# [](#header-1) 8   Real world examples of FTS
+# [](#header-1) 8.   Real world examples of FTS
 One of the ways to evaluate the efficiency of FTS is to compare the time taken to execute a project using traditional software development approaches vs FTS. Apart from the usual difficulties faced in globally distributed software development, FTS also has the additional challenges of managing daily job hand-offs. It is interesting to note that there have been very few documented cases of successful FTS application in the software industry.
 
 IBM in 1990’s was probably one of the first companies to record the implementation of FTS in its software development teams globally \[1\]. This project involved five global teams distributed across five different countries. The initiative was unsuccessful, and the project was ultimately implemented using only the essential principles of global software development.
@@ -142,7 +142,7 @@ Another documented case of FTS application was by Infosys \[20\] in 2005 where F
 Based on these observations and the results presented in literature, it can be said that FTS approach is not widely used in practice because of its limitations and challenges.
 
 
-# [](#header-1) 9   Advantages of FTS approach
+# [](#header-1) 9.   Advantages of FTS approach
 
 The FTS approach utilizes distributed team members spread across time-zones to achieve a single project outcome with the main objective of gaining speed and reducing the time-to-market of a project \[13\]. This in turn increases productivity. Assuming each site has a work day of 6 hours, the project can be done with 4 sites, spread out over different time zones. Hence, assuming a work day consists of 6 hours, the project duration can be reduced by four times. Apart from this advantage, it also provides the following additional advantages:
 
@@ -151,7 +151,7 @@ The FTS approach utilizes distributed team members spread across time-zones to a
 * Helps in leveraging skills and experience across all sites. The potential to leverage a broader and/or deeper skill base is a valid benefit and can offer a business unique skills otherwise unavailable and therefore provide an important competitive advantage.
 * It helps in reducing software licensing costs. When software licensing permits, there is a potential opportunity to share the license costs over more than one time zone thereby reducing the total number of licenses required.
 
-# [](#header-1) 10 Limitations of FTS
+# [](#header-1) 10. Limitations of FTS
 
 FTS has many challenges associated with it and it also faces same challenges of GSD as it is a part of GSD.  The success cases in the Industry using FTS are rare, in part due to the lack of well-founded knowledge on applying FTS \[9\]. The implementation of FTS, if not practiced correctly, may result in failures and projects going over budget \[10\]. According to Carmel \[1\], FTS has challenges such as coordination barriers, cultural differences, and communication difficulties.
 
@@ -159,7 +159,7 @@ FTS has many challenges associated with it and it also faces same challenges of 
 * Communication challenge:  This difficulty occurs due to the increase in the number of teams allocated to the project and consequently a loss of communication richness. Solving a problem that needs intense communication across teams is hard to do since each team’s working time differs. And if there is an intersection in their working times, it will be used to handing off the work. The communication challenges in FTS are associated mainly to the lack of synchronous communication between distributed teams \[11\].
 * Cultural challenge: Challenges due to cultural differences are associated to the socio-cultural diversity present in FTS development environments. It is determined mainly by social, ethnic and cultural aspects [12\]. For example, the usual problems of supporting collaboration are compounded by language and diversity \[13\]. In addition, as reported earlier, if one culture has more emphasis on self-sufficiency, therefore they tend not to ask for help when problems come up. Another culture would not offer their help unless they were asked while the third considered that presenting the problem was a sufficient invitation for a willing team members to jump in and help.
 
-# [](#header-1) 11   Research themes
+# [](#header-1) 11.   Research themes
 In this section we give a number of research themes within Follow-the-Sun software development research. We identified three main themes, namely challenges and best practices, location selection and hand-offs management.
 
 ## [](#header-2) 11.1   Challenges and best practices
@@ -187,7 +187,7 @@ Since hand-offs are such an important aspect of Follow-the-Sun software developm
 
 Since these aspects above are reported to increase efficiency, it was also concluded that when these aspects are taken into account the duration of the project is reduced.
 
-# [](#header-1) 12   Conclusion
+# [](#header-1) 12.   Conclusion
 The purpose of this article was to present a comprehensive study on the FTS model for software development. Background, main ideas and  principles behind FTS were discussed followed by a brief review on Agile for FTS, advantages and limitations of FTS. One shortcoming of this article is that we have only investigated the effect of FTS on speed, not on the product quality because of lack of suitable documented references.
 
 We have underlined some of the essential concepts of FTS such as use of Agile for FTS, tools required and learnings from past experiences for the efficient implementation of FTS. The FTS model doesn’t seem to be a suitable choice for complete projects, when compared to its applicability for particular phases like - testing where it works very well due to less dependency on hand-off work. This means that efficiency in task hand-off is of paramount importance to the success of the FTS approach. We have discussed how technology tools and infrastructure play an important role in the successful implementation of FTS. Agile seems to be the best and most suitable for FTS based approaches because the principles of Agile anf FTS complement each other. We have also elaborated in depth about the real world examples where FTS was applied. Although there were very less successful cases, some companies still showed positive intent in applying FTS model. Typical challenges such as coordination, communication and culture differences presents a bigger challenge to FTS than GSD, as FTS involves daily hand-offs. There are numerous advantages if the FTS implementation is successful which are reduced time-to-market, reduced software costs, increased international relationships leading to better diversity among companies, etc.
@@ -196,7 +196,7 @@ Many companies are looking for efficiency in software development in terms of qu
 
 We showed that there are three main research themes, namely challenges and best practices, location selection and hand-offs management. There exist several case and field studies over the years, which resulted in challenges and best practices of FTS. In addition, there is research about location selection and the effect of the number of selected locations. Lastly, we showed that there was a study which researched hand-offs management.
 
-# [](#header-1) 13   References
+# [](#header-1) 13.   References
 \[1\] Erran Carmel, J Alberto Espinosa, and Yael Dubinsky. "follow the sun" workflow in global software development. Journal of Management Information Systems, 27(1):17-38, 2010. <!--carmel2010follow-->
 
 \[2\] Murray R Millson, SP Raj, and David Wilemon. A survey of major approaches for accelerating new product development. Journal of Product Innovation Management, 9(1):53-69, 1992. <!--millson1992survey-->
