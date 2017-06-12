@@ -91,7 +91,7 @@ The FTS approach is based on the principle of handing-off unfinished work to the
 
 
 ![](/images/FTSinPractise.jpg)
-__Figure 5: Five important things required to apply FTS model in practice__
+__Figure 5: Five important things essential to apply FTS model successfully in practice__
 
 # [](#header-1) 8.   Real world examples of FTS
 One of the ways to evaluate the efficiency of FTS is to compare the time taken to execute a project using traditional software development approaches vs FTS. Apart from the usual difficulties faced in globally distributed software development, FTS also has the additional challenges of managing daily job hand-offs. It is interesting to note that there have been very few documented cases of successful FTS application in the software industry.
@@ -108,7 +108,7 @@ Three important companies which documented their experience is summarized below.
 
 Two case studies reported on the application of FTS in software development is elaborated below.
 
-1. WDSGlobal case study: In 2004 a study conducted within the company of WDSGlobal reported the following list of what worked in FTS software development (when doing Extreme Programming) \[7\]:
+1. *WDSGlobal case study*: In 2004 a study conducted within the company of WDSGlobal reported the following list of what worked in FTS software development (when doing Extreme Programming) \[7\]:
 
    * Daily handovers.
    * Face-to-face communication (video calls for handovers).
@@ -121,26 +121,26 @@ Two case studies reported on the application of FTS in software development is e
 
   The study reported the following lessons that were learned:
 
-   * Balance teams, so that one team does not dominate the project.
-   * Introduce "a set of rules and pre-defined processes" so that "all of the team members know exactly what to expect from each other".
-   * The problem of introducing innovation. Ideal would be a consensus among the whole team, but this is very time consuming, due to different locations and time zones.
-   * Allow some flexibility in different locations with respect to shared processes.
+     * Balance teams, so that one team does not dominate the project.
+     * Introduce "a set of rules and pre-defined processes" so that "all of the team members know exactly what to expect from each other".
+     * The problem of introducing innovation. Ideal would be a consensus among the whole team, but this is very time consuming, due to different locations and time zones.
+     * Allow some flexibility in different locations with respect to shared processes.
 
   The study involved teams from the USA, UK and Singapore. Although these regions share the English language, there were cultural differences, for example, "one culture has more emphasis on self-sufficiency; therefore they tend not to ask for help when problems come up. Another culture would not offer their help unless they were asked while the third considered that presenting the problem was a sufficient invitation for willing team members to jump in and help".
 
-2. FTS feasibility case study: In 2013 there was a feasibility study of FTS in the industry \[18\]. The work involved a software project developed by teams in Mexico, India and Australia, which followed Scrum. There was a 30 and 60 minutes overlap between locations "to enable the daily handover of tasks". The three teams consist of 2 micro-teams (composite persona \[17\]), with at least one person from each location. The result was that the project was completed in 5.5 weeks, while it was estimated to be completed in 6 weeks in non-FTS mode, so it reduced time.
+2. *FTS feasibility study*: In 2013 there was a feasibility study of FTS in the industry \[18\]. The work involved a software project developed by teams in Mexico, India and Australia, which followed Scrum. There was a 30 and 60 minutes overlap between locations "to enable the daily handover of tasks". The three teams consist of 2 micro-teams (composite persona \[17\]), with at least one person from each location. The result was that the project was completed in 5.5 weeks, while it was estimated to be completed in 6 weeks in non-FTS mode, so it reduced time.
 
   Major lessons learned in the study that could improve FTS from their experience include:
 
-   * Templates and standard documents in the project
-   * Coding standards
-   * Screen sharing
-   * A communication protocol
-   * Tasks for the day for individuals
-   * Handover template
-   * Assign tasks to a composite persona owner  
+     * Templates and standard documents in the project
+     * Coding standards
+     * Screen sharing
+     * A communication protocol
+     * Tasks for the day for individuals
+     * Handover template
+     * Assign tasks to a composite persona owner  
 
-  It was also observed that hand-offs between different sites were especially difficult in the weekends. Since there is no overlap during the hand-off and the hand off happens, for example, via e-mail, instead of via the phone or other communication tool.
+   It was also observed that hand-offs between different sites were especially difficult in the weekends. Since there is no overlap during the hand-off and the hand off happens, for example, via e-mail, instead of via the phone or other communication tool.
 
 
 
