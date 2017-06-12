@@ -240,4 +240,4 @@ System Sciences (HICSS), 2014 47th Hawaii International Conference on, pages 331
 
 \[19\] Treinen, James J., and Susan L. Miller-Frost. "Following the sun: Case studies in global software development." IBM Systems Journal 45.4 (2006): 773-783. <!--reinen2006following-->
 
-\[20\] ZONE, HOW INFOSYS MANAGES TIME. "QUarterly Executive." (2006). <!--zone2006quarterly-->
+\[20\] ZONE, HOW INFOSYS MANAGES TIME. "Quarterly Executive." (2006). <!--zone2006quarterly-->
