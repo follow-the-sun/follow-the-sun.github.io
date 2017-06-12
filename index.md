@@ -51,7 +51,8 @@ At any given time only one team owns the product unlike other global configurati
 ![](/images/fts1.jpeg)
 __Figure 2: Comparing FTS model with other global workflows \[1\]__
 
-### [](#header-2)4.1 Not All Global Workflows are FTS
+### [](#header-2)Not All Global Workflows are FTS
+
 Several workflows seem to be using the FTS model, but in reality this is not always the case. Based on the discussions in the _Principles of FTS_ section which explains the minimum criteria for a work flow to be considered as a FTS approach, the following do not fit in this category \[1\]:
 
 *	Software development involving multiple global locations in different time zones is not always FTS if it does not satisfy all the criteria mentioned in the _Principles of FTS_ section.
@@ -87,64 +88,62 @@ Modes of communication in FTS approach may be asynchronous or synchronous. The g
 
 # [](#header-1)7. Applying the FTS Model in Practice
 
-The FTS approach is based on the principle of handing-off unfinished work to the next location at the end of work day. To manage the workflow efficiently the following principles are applied in practice.
+The FTS approach is based on the principle of handing-off unfinished work to the next location at the end of work day. To manage the workflow efficiently the principles shown in Fig. 5 are applied in practice.
 
-1. Speed improvement is the primary focus<br/> Achieving reduction in overall development cycle by achieving high calendar efficiency is the primary motive of the FTS approach. This is to be achieved by round-the-clock development using efficient daily hand-off coordination.  
 
-2. Well defined product architectures<br/>
-As explained in  Carmel \[6\], more stress should be laid on defining product architectures which can be developed as relatively small and independent components. The FTS approach is the most suitable when product definitions are well defined and clear.
+![](/images/FTSinPractise.jpg)
+__Figure 5: Five important things essential to apply FTS model successfully in practice__
 
-3. Vertical division of tasks<br/>
-Traditional approach to software development emphasizes horizontal division of tasks – each location working on a specific sub module. The FTS approach stresses on the vertical division of tasks across geographies. Every location contributes to the continuous development of the entire project by taking up tasks left unfinished by the previous team. Tasks must be delegated efficiently without creating a sort of ‘*Master-Slave*’ relation between teams \[5\].
-
-4. Project management and coordination – use of automated tools <br/>
-FTS philosophy raises several important questions regarding overall project management, determining code quality, conflict resolution and avoiding infrastructure duplication. Efficiency in task handoff is of paramount importance to the success of FTS approach. This requires the application of innovative management tools and techniques such as MultiMind outlined in \[5\]. The idea is to use automated tools for generating scrum reports, code review documents and manage task handoffs so that workflow is continuous and free from conflicts. Key to reducing delays in FTS lies in efficiency with which two developers can work – working in parallel or sequentially in shifts, integrating and handing off the work to each other at the end of each shift.
-
-5. Knowledge transfer <br/>
-Continuous sharing and dissemination of knowledge is one of the deciding factors for the success of the FTS approach. Use of knowledge management tools to capture crucial information ensures that information is shared and available to all the stakeholders irrespective of physical location.
-
-# [](#header-1)8. Real World Examples of FTS
+# [](#header-1) 8.   Real world examples of FTS
 One of the ways to evaluate the efficiency of FTS is to compare the time taken to execute a project using traditional software development approaches vs FTS. Apart from the usual difficulties faced in globally distributed software development, FTS also has the additional challenges of managing daily job hand-offs. It is interesting to note that there have been very few documented cases of successful FTS application in the software industry.
 
-IBM in 1990’s was probably one of the first companies to record the implementation of FTS in its software development teams globally \[1\]. This project involved five global teams distributed across five different countries. The initiative was unsuccessful, and the project was ultimately implemented using only the essential principles of global software development.
+Three important companies which documented their experience is summarized below.
 
-Treinen and Miller Frost \[19\] published a case documenting two cases of FTS implementation at IBM. The first one involved a software development project consisting of teams in the United States and Australia and met with high degree of success. The second case study involved three distinct projects with development sites in the United States and India, and met with drastic failure. Several reasons such as misinterpretation of specifications, multiple rework cycles, lack of proper coordination and communication between teams, time zone issues and cultural differences were attributed to the project’s failure.
+1. IBM in 1990’s was probably one of the first companies to record the implementation of FTS in its software development teams globally \[1\]. This project involved five global teams distributed across five different countries. The initiative was unsuccessful, and the project was ultimately implemented using only the essential principles of global software development.
 
-In 2004 a study conducted within the company of WDSGlobal reported the following list of what worked in FTS software development (when doing Extreme Programming) \[7\]:
+2. Treinen and Miller Frost \[19\] published a case documenting two cases of FTS implementation at IBM. The first one involved a software development project consisting of teams in the United States and Australia and met with high degree of success. The second case study involved three distinct projects with development sites in the United States and India, and met with drastic failure. Several reasons such as misinterpretation of specifications, multiple rework cycles, lack of proper coordination and communication between teams, time zone issues and cultural differences were attributed to the project’s failure.
 
-* Daily handovers.
-* Face-to-face communication (video calls for handovers).
-* Shared common configuration.
-* Remote pairing, for "collaborating on ideas and sharing experiences, removing misunderstandings, and fostering shared memory between the pair and through them the teams".
-* Round-the-World Program, which means that each member of the team works at each region for four to six weeks (if possible), which means that a team member gains "a certain level of knowledge of the background and shared cultural values, and building trust with members in other regions".
-* Work together on features and issues.
-* Coaches had one-on-one meetings after daily handovers, all coaches had weekly meetings to discuss issues and once in a quarter all coaches physically met for two weeks to deal with more complicated issues and discuss long term planning.
-* Regular discussions about Extreme Programming.
+3. Another documented case of FTS application was by Infosys \[20\] in 2005 where FTS was applied to small subsets of the project cycle. Infosys concluded that applicability of FTS was limited and highly specific to the nature of the task at hand. Cameron \[13\] highlights the example of FTS application at EDS (now a part of HP).
 
-The study reported the following lessons that were learned:
+### [](#header-2) Case Studies: 
 
-* Balance teams, so that one team does not dominate the project.
-* Introduce "a set of rules and pre-defined processes" so that "all of the team members know exactly what to expect from each other".
-* The problem of introducing innovation. Ideal would be a consensus among the whole team, but this is very time consuming, due to different locations and time zones.
-* Allow some flexibility in different locations with respect to shared processes.
+Two case studies reported on the application of FTS in software development is elaborated below.
 
-The study involved teams from the USA, UK and Singapore. Although these regions share the English language, there were cultural differences, for example, "one culture has more emphasis on self-sufficiency; therefore they tend not to ask for help when problems come up. Another culture would not offer their help unless they were asked while the third considered that presenting the problem was a sufficient invitation for willing team members to jump in and help".
+1. *WDSGlobal case study*: In 2004 a study conducted within the company of WDSGlobal reported the following list of what worked in FTS software development (when doing Extreme Programming) \[7\]:
 
-In 2013 there was a feasibility study of FTS in the industry \[18\]. The work involved a software project developed by teams in Mexico, India and Australia, which followed Scrum. There was a 30 and 60 minutes overlap between locations "to enable the daily handover of tasks". The three teams consist of 2 micro-teams (composite persona \[17\]), with at least one person from each location. The result was that the project was completed in 5.5 weeks, while it was estimated to be completed in 6 weeks in non-FTS mode, so it reduced time.
+        * Daily handovers.
+        * Face-to-face communication (video calls for handovers).
+        * Shared common configuration.
+        * Remote pairing, for "collaborating on ideas and sharing experiences, removing misunderstandings, and fostering shared memory between the pair and through them the teams".
+        * Round-the-World Program, which means that each member of the team works at each region for four to six weeks (if possible), which means that a team member gains "a certain level of knowledge of the background and shared cultural values, and building trust with members in other regions".
+        * Work together on features and issues.
+        * Coaches had one-on-one meetings after daily handovers, all coaches had weekly meetings to discuss issues and once in a quarter all coaches physically met for two weeks to deal with more complicated issues and discuss long term planning.
+        * Regular discussions about Extreme Programming.
 
-Major lessons learned in the study that could improve FTS from their experience include:
+     The study reported the following lessons that were learned:
 
-* Templates and standard documents in the project
-* Coding standards
-* Screen sharing
-* A communication protocol
-* Tasks for the day for individuals
-* Handover template
-* Assign tasks to a composite persona owner  
+        * Balance teams, so that one team does not dominate the project.
+        * Introduce "a set of rules and pre-defined processes" so that "all of the team members know exactly what to expect from each other".
+        * The problem of introducing innovation. Ideal would be a consensus among the whole team, but this is very time consuming, due to different locations and time zones.
+        * Allow some flexibility in different locations with respect to shared processes.
 
-It was also observed that hand-offs between different sites were especially difficult in the weekends. Since there is no overlap during the hand-off and the hand off happens, for example, via e-mail, instead of via the phone or other communication tool.
+      The study involved teams from the USA, UK and Singapore. Although these regions share the English language, there were cultural differences, for example, "one culture has more emphasis on self-sufficiency; therefore they tend not to ask for help when problems come up. Another culture would not offer their help unless they were asked while the third considered that presenting the problem was a sufficient invitation for willing team members to jump in and help".
 
-Another documented case of FTS application was by Infosys \[20\] in 2005 where FTS was applied to small subsets of the project cycle. Infosys concluded that applicability of FTS was limited and highly specific to the nature of the task at hand. Cameron \[13\] highlights the example of FTS application at EDS (now a part of HP).
+2. *FTS feasibility study*: In 2013 there was a feasibility study of FTS in the industry \[18\]. The work involved a software project developed by teams in Mexico, India and Australia, which followed Scrum. There was a 30 and 60 minutes overlap between locations "to enable the daily handover of tasks". The three teams consist of 2 micro-teams (composite persona \[17\]), with at least one person from each location. The result was that the project was completed in 5.5 weeks, while it was estimated to be completed in 6 weeks in non-FTS mode, so it reduced time.
+
+   Major lessons learned in the study that could improve FTS from their experience include:
+
+       * Templates and standard documents in the project
+       * Coding standards
+       * Screen sharing
+       * A communication protocol
+       * Tasks for the day for individuals
+       * Handover template
+       * Assign tasks to a composite persona owner  
+
+    It was also observed that hand-offs between different sites were especially difficult in the weekends. Since there is no overlap during the hand-off and the hand off happens, for example, via e-mail, instead of via the phone or other communication tool.
+
+
 
 Based on these observations and the results presented in literature, it can be said that FTS approach is not widely used in practice because of its limitations and challenges.
 
@@ -160,7 +159,7 @@ The FTS approach utilizes distributed team members spread across time-zones to a
 
 ![](/images/advantage.png)
 
-__Figure 5: Advantage of utilizing FTS__
+__Figure 6: Advantage of utilizing FTS__
 
 # [](#header-1)10. Limitations of FTS
 
@@ -171,7 +170,8 @@ FTS has many challenges associated with it and it also faces same challenges of 
 * Cultural challenge: Challenges due to cultural differences are associated to the socio-cultural diversity present in FTS development environments. It is determined mainly by social, ethnic and cultural aspects [12\]. For example, the usual problems of supporting collaboration are compounded by language and diversity \[13\]. In addition, as reported earlier, if one culture has more emphasis on self-sufficiency, therefore they tend not to ask for help when problems come up. Another culture would not offer their help unless they were asked while the third considered that presenting the problem was a sufficient invitation for a willing team members to jump in and help.
 
 ![](/images/limitation.png)
-__Figure 6: Challenges when applying FTS__
+
+__Figure 7: Challenges when applying FTS__
 
 # [](#header-1)11. Research Themes
 In this section we give a number of research themes within Follow-the-Sun software development research. We identified three main themes, namely challenges and best practices, location selection and hand-offs management.
