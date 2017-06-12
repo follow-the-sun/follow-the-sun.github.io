@@ -130,7 +130,7 @@ Two case studies reported on the application of FTS in software development is e
 
 2. *FTS feasibility study*: In 2013 there was a feasibility study of FTS in the industry \[18\]. The work involved a software project developed by teams in Mexico, India and Australia, which followed Scrum. There was a 30 and 60 minutes overlap between locations "to enable the daily handover of tasks". The three teams consist of 2 micro-teams (composite persona \[17\]), with at least one person from each location. The result was that the project was completed in 5.5 weeks, while it was estimated to be completed in 6 weeks in non-FTS mode, so it reduced time.
 
- Major lessons learned in the study that could improve FTS from their experience include:
+   Major lessons learned in the study that could improve FTS from their experience include:
 
        * Templates and standard documents in the project
        * Coding standards
@@ -140,7 +140,7 @@ Two case studies reported on the application of FTS in software development is e
        * Handover template
        * Assign tasks to a composite persona owner  
 
-   It was also observed that hand-offs between different sites were especially difficult in the weekends. Since there is no overlap during the hand-off and the hand off happens, for example, via e-mail, instead of via the phone or other communication tool.
+    It was also observed that hand-offs between different sites were especially difficult in the weekends. Since there is no overlap during the hand-off and the hand off happens, for example, via e-mail, instead of via the phone or other communication tool.
 
 
 
