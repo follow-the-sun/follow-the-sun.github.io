@@ -6,3 +6,30 @@
 p {
     text-align: justify;
 }
+
+
+
+.index{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+	max-width: 30em;
+    background-color: #f1f1f1;
+    position: fixed;
+}
+
+.content{
+	
+	padding:1%;
+}
+
+.main-content{
+	padding: 2rem 0rem;
+	box-sizing: content-box;
+	margin-left: 25%;
+}
+
+
+
+
