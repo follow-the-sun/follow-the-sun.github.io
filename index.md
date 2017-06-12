@@ -51,7 +51,7 @@ At any given time only one team owns the product unlike other global configurati
 ![](/images/fts1.jpeg)
 __Figure 2: Comparing FTS model with other global workflows \[1\]__
 
-### [](#header-2) 4.1 Not All global workflows are FTS
+### [](#header-2) Not All global workflows are FTS
 Several workflows seem to be using the FTS model, but in reality this is not always the case. Based on the discussions in the _Principles of FTS_ section which explains the minimum criteria for a work flow to be considered as a FTS approach, the following do not fit in this category \[1\]:
 
 *	Software development involving multiple global locations in different time zones is not always FTS if it does not satisfy all the criteria mentioned in the _Principles of FTS_ section.
