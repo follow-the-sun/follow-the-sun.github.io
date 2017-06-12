@@ -157,6 +157,7 @@ The FTS approach utilizes distributed team members spread across time-zones to a
 * It helps in reducing software licensing costs. When software licensing permits, there is a potential opportunity to share the license costs over more than one time zone thereby reducing the total number of licenses required.
 
 ![](/images/advantage.png)
+
 __Figure 6: Advantage of utilizing FTS__
 
 # [](#header-1) 10. Limitations of FTS
