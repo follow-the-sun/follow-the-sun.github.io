@@ -91,7 +91,7 @@ The FTS approach is based on the principle of handing-off unfinished work to the
 
 
 ![](/images/FTSinPractise.jpg)
-__Figure 4: Five important things required to apply FTS model in practice__
+__Figure 5: Five important things required to apply FTS model in practice__
 
 # [](#header-1) 8.   Real world examples of FTS
 One of the ways to evaluate the efficiency of FTS is to compare the time taken to execute a project using traditional software development approaches vs FTS. Apart from the usual difficulties faced in globally distributed software development, FTS also has the additional challenges of managing daily job hand-offs. It is interesting to note that there have been very few documented cases of successful FTS application in the software industry.
@@ -110,21 +110,21 @@ Two case studies reported on the application of FTS in software development is e
 
 1. WDSGlobal case study: In 2004 a study conducted within the company of WDSGlobal reported the following list of what worked in FTS software development (when doing Extreme Programming) \[7\]:
 
-  * Daily handovers.
-  * Face-to-face communication (video calls for handovers).
-  * Shared common configuration.
-  * Remote pairing, for "collaborating on ideas and sharing experiences, removing misunderstandings, and fostering shared memory between the pair and through them the teams".
-  * Round-the-World Program, which means that each member of the team works at each region for four to six weeks (if possible), which means that a team member gains "a certain level of knowledge of the background and shared cultural values, and building trust with members in other regions".
-  * Work together on features and issues.
-  * Coaches had one-on-one meetings after daily handovers, all coaches had weekly meetings to discuss issues and once in a quarter all coaches physically met for two weeks to deal with more complicated issues and discuss long term planning.
-  * Regular discussions about Extreme Programming.
+   * Daily handovers.
+   * Face-to-face communication (video calls for handovers).
+   * Shared common configuration.
+   * Remote pairing, for "collaborating on ideas and sharing experiences, removing misunderstandings, and fostering shared memory between the pair and through them the teams".
+   * Round-the-World Program, which means that each member of the team works at each region for four to six weeks (if possible), which means that a team member gains "a certain level of knowledge of the background and shared cultural values, and building trust with members in other regions".
+   * Work together on features and issues.
+   * Coaches had one-on-one meetings after daily handovers, all coaches had weekly meetings to discuss issues and once in a quarter all coaches physically met for two weeks to deal with more complicated issues and discuss long term planning.
+   * Regular discussions about Extreme Programming.
 
   The study reported the following lessons that were learned:
 
-  * Balance teams, so that one team does not dominate the project.
-  * Introduce "a set of rules and pre-defined processes" so that "all of the team members know exactly what to expect from each other".
-  * The problem of introducing innovation. Ideal would be a consensus among the whole team, but this is very time consuming, due to different locations and time zones.
-  * Allow some flexibility in different locations with respect to shared processes.
+   * Balance teams, so that one team does not dominate the project.
+   * Introduce "a set of rules and pre-defined processes" so that "all of the team members know exactly what to expect from each other".
+   * The problem of introducing innovation. Ideal would be a consensus among the whole team, but this is very time consuming, due to different locations and time zones.
+   * Allow some flexibility in different locations with respect to shared processes.
 
   The study involved teams from the USA, UK and Singapore. Although these regions share the English language, there were cultural differences, for example, "one culture has more emphasis on self-sufficiency; therefore they tend not to ask for help when problems come up. Another culture would not offer their help unless they were asked while the third considered that presenting the problem was a sufficient invitation for willing team members to jump in and help".
 
@@ -132,13 +132,13 @@ Two case studies reported on the application of FTS in software development is e
 
   Major lessons learned in the study that could improve FTS from their experience include:
 
-  * Templates and standard documents in the project
-  * Coding standards
-  * Screen sharing
-  * A communication protocol
-  * Tasks for the day for individuals
-  * Handover template
-  * Assign tasks to a composite persona owner  
+   * Templates and standard documents in the project
+   * Coding standards
+   * Screen sharing
+   * A communication protocol
+   * Tasks for the day for individuals
+   * Handover template
+   * Assign tasks to a composite persona owner  
 
   It was also observed that hand-offs between different sites were especially difficult in the weekends. Since there is no overlap during the hand-off and the hand off happens, for example, via e-mail, instead of via the phone or other communication tool.
 
@@ -157,7 +157,6 @@ The FTS approach utilizes distributed team members spread across time-zones to a
 * It helps in reducing software licensing costs. When software licensing permits, there is a potential opportunity to share the license costs over more than one time zone thereby reducing the total number of licenses required.
 
 ![](/images/advantage.png)
-
 __Figure 5: Advantage of utilizing FTS__
 
 # [](#header-1) 10. Limitations of FTS
