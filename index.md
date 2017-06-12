@@ -119,7 +119,7 @@ Two case studies reported on the application of FTS in software development is e
      * Coaches had one-on-one meetings after daily handovers, all coaches had weekly meetings to discuss issues and once in a quarter all coaches physically met for two weeks to deal with more complicated issues and discuss long term planning.
      * Regular discussions about Extreme Programming.
 
-  The study reported the following lessons that were learned:
+      The study reported the following lessons that were learned:
 
    * Balance teams, so that one team does not dominate the project.
    * Introduce "a set of rules and pre-defined processes" so that "all of the team members know exactly what to expect from each other".
