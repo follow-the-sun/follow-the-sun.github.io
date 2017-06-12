@@ -80,6 +80,9 @@ Some other day to day tasks enabled by software include – logging time spent b
 
 The effective utilization of code repositories and version control management systems is crucial to the success of the FTS approach. It is quite possible that hundreds of software developers and testers can be working on a project in cycles. Most of the current code repositories are cloud based and accessible across geographies. In this distributed model, the CIA \[8\] (the triad of Confidentiality, Integrity and Availability of service and data) assumes paramount importance. This infrastructure must always be available on demand and accessible. Tools to support data security and encryption such as VPN’s are also important. The ability of project management tools to integrate with development tools can help reduce the duration of project cycles in FTS.
 
+![](/images/tools.jpg)
+__Figure 4: Successful implementation of FTS depends on reliable software tools and utilities__
+
 Modes of communication in FTS approach may be asynchronous or synchronous. The geographically dispersed nature requires the use of software applications which facilitate tele-conferencing, VoIP calling, instant messaging etc. Knowledge transfer and sharing of project critical information with concerned parties is essential for smooth operation of the project. Formal systems such as discussion forums or internal Wiki sites may prove to be useful. If communication issues are not addressed they will create significant challenges in FTS adoption.
 
 # [](#header-1) 7.   Applying the FTS Model in Practice
