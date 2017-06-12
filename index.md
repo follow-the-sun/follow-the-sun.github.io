@@ -94,7 +94,7 @@ The FTS approach is based on the principle of handing-off unfinished work to the
 ![](/images/FTSinPractise.jpg)
 __Figure 5: Five important things essential to apply FTS model successfully in practice__
 
-# [](#header-1) 8.   Real world examples of FTS
+# [](#header-1)8. Real World Examples of FTS
 One of the ways to evaluate the efficiency of FTS is to compare the time taken to execute a project using traditional software development approaches vs FTS. Apart from the usual difficulties faced in globally distributed software development, FTS also has the additional challenges of managing daily job hand-offs. It is interesting to note that there have been very few documented cases of successful FTS application in the software industry.
 
 Three important companies which documented their experience is summarized below.
