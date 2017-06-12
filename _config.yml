@@ -5,3 +5,46 @@ title: Follow the Sun
 description: An intuitive study of the state of the art "Follow the Sun" methodology applied in software development.
 gems:
   - jekyll-seo-tag
+  
+nav:
+- page: Introduction
+  permalink: "#1-introduction"
+  
+- page: Background
+  permalink: "#2-background"
+  
+- page: Principles of FTS
+  permalink: "#3-principles-of-fts"
+  
+- page: Traditional Software Development vs FTS
+  permalink: "#4-traditional-software-development-vs-fts"
+  
+- page: Agile and FTS
+  permalink: "#5-agile-and-fts"
+  
+- page: Technology Tools and Infrastructure to Support FTS
+  permalink: "#6-technology-tools-and-infrastructure-to-support-fts"
+  
+- page: Applying the FTS Model in Practice
+  permalink: "#7-applying-the-fts-model-in-practice"
+  
+- page: Real World Examples of FTS
+  permalink: "#8-real-world-examples-of-fts"
+  
+- page: Advantages of FTS
+  permalink: "#9-advantages-of-fts"
+  
+- page: Limitaions of FTS
+  permalink: "#10-limitations-of-fts"
+  
+- page: Research Themes
+  permalink: "#11-research-themes"
+  
+- page: Conclusion
+  permalink: "#12-conclusion"
+  
+- page: References
+  permalink: "#13-references"
+
+  
+  
