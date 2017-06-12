@@ -158,6 +158,10 @@ The FTS approach utilizes distributed team members spread across time-zones to a
 * Helps in leveraging skills and experience across all sites. The potential to leverage a broader and/or deeper skill base is a valid benefit and can offer a business unique skills otherwise unavailable and therefore provide an important competitive advantage.
 * It helps in reducing software licensing costs. When software licensing permits, there is a potential opportunity to share the license costs over more than one time zone thereby reducing the total number of licenses required.
 
+![](/images/advantage.png)
+
+__Figure 5: Advantage of utilizing FTS__
+
 # [](#header-1) 10. Limitations of FTS
 
 FTS has many challenges associated with it and it also faces same challenges of GSD as it is a part of GSD.  The success cases in the Industry using FTS are rare, in part due to the lack of well-founded knowledge on applying FTS \[9\]. The implementation of FTS, if not practiced correctly, may result in failures and projects going over budget \[10\]. According to Carmel \[1\], FTS has challenges such as coordination barriers, cultural differences, and communication difficulties.
@@ -165,6 +169,9 @@ FTS has many challenges associated with it and it also faces same challenges of 
 * Coordination challenge: When more than one site is added to the project, this increases the difficulties to coordinate aspects that involve team management, and cultural and geographical differences \[6\]. For example, daily handoffs are difficult to coordinate due to the difficulty of resolving task issues across sites/shifts, and the cross-site coordination cost will most likely be positive and nontrivial. If a team hands off a work to other team, the problem can get worse if the other team doesn't understand correctly about the problem or introduce a new problem.
 * Communication challenge:  This difficulty occurs due to the increase in the number of teams allocated to the project and consequently a loss of communication richness. Solving a problem that needs intense communication across teams is hard to do since each team’s working time differs. And if there is an intersection in their working times, it will be used to handing off the work. The communication challenges in FTS are associated mainly to the lack of synchronous communication between distributed teams \[11\].
 * Cultural challenge: Challenges due to cultural differences are associated to the socio-cultural diversity present in FTS development environments. It is determined mainly by social, ethnic and cultural aspects [12\]. For example, the usual problems of supporting collaboration are compounded by language and diversity \[13\]. In addition, as reported earlier, if one culture has more emphasis on self-sufficiency, therefore they tend not to ask for help when problems come up. Another culture would not offer their help unless they were asked while the third considered that presenting the problem was a sufficient invitation for a willing team members to jump in and help.
+
+![](/images/limitation.png)
+__Figure 6: Challenges when applying FTS__
 
 # [](#header-1) 11.   Research themes
 In this section we give a number of research themes within Follow-the-Sun software development research. We identified three main themes, namely challenges and best practices, location selection and hand-offs management.
