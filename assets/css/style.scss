@@ -12,8 +12,7 @@ p {
 .index{
 	list-style-type: none;
     margin: 0;
-    padding: 0;
-    width: 25%;
+    width: 20%;
 	max-width: 30em;
     background-color: #f1f1f1;
     position: fixed;
@@ -27,9 +26,19 @@ p {
 .main-content{
 	padding: 2rem 0rem;
 	box-sizing: content-box;
-	margin-left: 25%;
+	margin-left: 20%;
+	margin-right: 20%;
+	}
+
+.index-wrap{
+position:fixed;
+	width: 20%;
+	height: 100%;
+	background-color: #e6e6e6;
+	z-index:-1;
 }
 
-
-
+.content-wrap{
+	height: 100%;
+}
 
