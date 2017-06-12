@@ -157,7 +157,7 @@ The FTS approach utilizes distributed team members spread across time-zones to a
 * It helps in reducing software licensing costs. When software licensing permits, there is a potential opportunity to share the license costs over more than one time zone thereby reducing the total number of licenses required.
 
 ![](/images/advantage.png)
-__Figure 5: Advantage of utilizing FTS__
+__Figure 6: Advantage of utilizing FTS__
 
 # [](#header-1) 10. Limitations of FTS
 
@@ -168,7 +168,8 @@ FTS has many challenges associated with it and it also faces same challenges of 
 * Cultural challenge: Challenges due to cultural differences are associated to the socio-cultural diversity present in FTS development environments. It is determined mainly by social, ethnic and cultural aspects [12\]. For example, the usual problems of supporting collaboration are compounded by language and diversity \[13\]. In addition, as reported earlier, if one culture has more emphasis on self-sufficiency, therefore they tend not to ask for help when problems come up. Another culture would not offer their help unless they were asked while the third considered that presenting the problem was a sufficient invitation for a willing team members to jump in and help.
 
 ![](/images/limitation.png)
-__Figure 6: Challenges when applying FTS__
+
+__Figure 7: Challenges when applying FTS__
 
 # [](#header-1) 11.   Research themes
 In this section we give a number of research themes within Follow-the-Sun software development research. We identified three main themes, namely challenges and best practices, location selection and hand-offs management.
