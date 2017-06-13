@@ -7,8 +7,6 @@ p {
     text-align: justify;
 }
 
-
-
 .index{
 	list-style-type: none;
     margin: 0;
@@ -19,7 +17,7 @@ p {
 }
 
 .content{
-	
+	text-align: justify;
 	padding:1%;
 }
 
@@ -42,3 +40,6 @@ position:fixed;
 	height: 100%;
 }
 
+.page-header {
+	padding: 2rem 0rem;
+}
