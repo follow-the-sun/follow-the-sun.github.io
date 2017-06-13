@@ -12,8 +12,10 @@ p {
     margin: 0;
     width: 20%;
 	max-width: 30em;
+	height:50%;
     background-color: #f1f1f1;
     position: fixed;
+
 }
 
 
@@ -24,10 +26,16 @@ p {
 
 .index-ol{
 	word-wrap: break-word;
-	-webkit-padding-start: 30px;
-	-webkit-margin-before: 0.5em;
-	-webkit-margin-after: 0.5em;
+	max-height:100%;
+	overflow:auto;
 }
+
+.index-ol-wrap{
+	display: flex;
+	justify-content: center;
+	align-items: center; 
+	height:100%;
+	}
 
 .main-content{
 	padding: 2rem 0rem;
@@ -42,6 +50,7 @@ position:fixed;
 	height: 100%;
 	background-color: #e6e6e6;
 	z-index:-1;
+	overflow:auto;
 }
 
 .content-wrap{
