@@ -16,9 +16,17 @@ p {
     position: fixed;
 }
 
+
 .content{
 	text-align: justify;
 	padding:1%;
+}
+
+.index-ol{
+	word-wrap: break-word;
+	-webkit-padding-start: 30px;
+	-webkit-margin-before: 0.5em;
+	-webkit-margin-after: 0.5em;
 }
 
 .main-content{
