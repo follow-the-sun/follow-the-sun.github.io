@@ -10,9 +10,14 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-  
-	<div class="index-wrap">
-	</div>
+	<nav class="index">
+	<ol class="index-ol">
+	  {% for n in site.nav %}
+	
+		<li><a href="{{ n.permalink }}">{{ n.page }}</a></li>
+	  {% endfor %}
+	</ol>
+    </nav>
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
@@ -25,19 +30,6 @@
       {% endif %}
     </section>
 	<div class="content-wrap">
-	
-
-	<nav class="index">
-	<div class="index-ol-wrap">
-	<ol class="index-ol">
-	  {% for n in site.nav %}
-	
-		<li><a href="{{ n.permalink }}">{{ n.page }}</a></li>
-	  {% endfor %}
-	</ol>
-    </nav>
-	</div>
-	
 
 	
     <section class="main-content">
