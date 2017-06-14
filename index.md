@@ -146,8 +146,6 @@ Two case studies reported on the application of FTS in software development is e
 
     It was also observed that hand-offs between different sites were especially difficult in the weekends. Since there is no overlap during the hand-off and the hand off happens, for example, via e-mail, instead of via the phone or other communication tool.
 
-
-
 Based on these observations and the results presented in literature, it can be said that FTS approach is not widely used in practice because of its limitations and challenges.
 
 
