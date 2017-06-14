@@ -166,7 +166,7 @@ __Figure 7: Advantages of the FTS approach__
 
 FTS has many challenges associated with it and it also faces same challenges of GSD as it is a part of GSD.  The success cases in the Industry using FTS are rare, in part due to the lack of well-founded knowledge on applying FTS \[9\]. The implementation of FTS, if not practiced correctly, may result in failures and projects going over budget \[10\]. According to Carmel \[1\], FTS has challenges such as coordination barriers, cultural differences, and communication difficulties depicted in Fig. 8.
 
-![](/images/limitations.jpg)
+![](/images/limitations1.jpg)
 
 __Figure 8: FTS limitations and challenges__
 
