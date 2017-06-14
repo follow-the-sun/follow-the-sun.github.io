@@ -11,7 +11,7 @@ It is a model in which work from one site is handed over to another, which is ma
 
 The major benefit is the development duration or the potential in reducing the time-to-market. Theoretically speaking, if 'n' sites are working on this scheme, their development speed could be increased dramatically by systematically organizing the work tasks sequentially on a daily basis and optimizing the coordination costs \[1\].
 
-Although this seems like such an intuitive idea to work with, it is not practiced widely, misunderstood often and has had a few documented industry success cases.
+Although this seems like such an intuitive idea to work with, it is not practiced widely, misunderstood often and has had few documented industry success cases.
 
 # [](#header-1)2. Background
 To get a proper picture of the background on FTS, there is a need to understand a development pace and its associated concept of time to market, which are the main drivers of the development of FTS. Time to market is the amount of time it takes from the moment the product is conceived until the product is available for use or sale. This is very important especially for industries whose products become outdated in a very short time (e.g. mobile handsets, firmware, e-commerce systems, and innovative supply chain management)
