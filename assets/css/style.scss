@@ -78,4 +78,13 @@ position:fixed;
 	padding-top:200px;
 }
 
+table{
+    table-layout: fixed;
+    width: 200px;
+}
+
+th, td {
+    width: 100px;
+}
+
 body {margin:0;}
