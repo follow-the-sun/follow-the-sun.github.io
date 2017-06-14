@@ -174,32 +174,13 @@ FTS has many challenges associated with it and it also faces same challenges of 
 __Figure 7: Challenges when applying FTS__
 
 # [](#header-1)11. Research Themes
-In this section we give a number of research themes within Follow-the-Sun software development research. We identified three main themes, namely challenges and best practices, location selection and hand-offs management.
+In this section we give a number of research themes within Follow-the-Sun software development research. We identified three main themes, namely challenges and best practices, location selection and hand-offs management. They are summarized in the table below.
 
-## [](#header-2)11.1 Challenges and Best Practices
-Research in Follow-the-Sun software development has been done since 1990. Results are generally from case or field studies, resulting in identified challenges and best practices to improve the methodology. A literature survey by Kroll et al. listed 36 best practices and 17 challenges for Follow-the-Sun software development from research between 1990 and 2012 \[14\].
-
-Three categories of challenges were found, namely challenges in coordination (e.g. time zone difference and hand offs management), communication and culture. The top three best practices that were found in research are agile methods, the use of technology for knowledge sharing (e.g. video calls) and process documentation.
-
-## [](#header-2)11.2 Location Selection
-This research \[15\] introduced a routing model, which supports the selection of geographical locations for Follow-the-Sun software development. The research focussed on two aspects: "the optimal time zone difference" and "the natural ease of communication" (i.e. culture and language). The model makes use of a database of locations that contain demographic data about these locations. The result of the study was a website on which a possible optimal route of geographical locations for Follow-the-Sun software development could be calculated.
-
-Another research looked at the impact of the number of sites on working speed and accuracy in Follow-the-Sun software development \[9\]. In this case accuracy is "the degree in which the produced work represents the expected work". Overall it was found that increasing the number of sites in a daily cycle increased the working speed. The number of sites had only a small impact on the accuracy.
-
-## [](#header-2)11.3 Hand-offs Management
-Since hand-offs are such an important aspect of Follow-the-Sun software development, recent research studied hand-offs management \[16\]. It was concluded that nine aspects of management are important for improving hand-offs efficiency \[16\]:
-
-* Improving communication quality
-* Ensure knowledge transfer between team members and production sites
-* Management of hand-off's information
-* Developing team's trust before and along the project
-* Ensure compliance of deadlines
-* Establishing time rules
-* Providing proper technology and tools
-* Delegating responsibility
-* Coordination of task allocation
-
-Since these aspects above are reported to increase efficiency, it was also concluded that when these aspects are taken into account the duration of the project is reduced.
+| Theme | Description | Research |
+| ----- | ----------- | ------- |
+| Challenges and practices | Research in Follow-the-Sun software development has been done since 1990. Results are generally from case or field studies, resulting in identified challenges and best practices to improve the methodology. | Kroll et al. listed 36 best practices and 17 challenges found in literature \[14\]. Three categories of challenges were found, namely challenges in coordination (e.g. time zone difference and hand offs management), communication and culture. The top three best practices that were found in research are agile methods, the use of technology for knowledge sharing (e.g. video calls) and process documentation. |
+| Location Selection | This theme is specifically for location selection and the impact of it. | This research \[15\] introduced a routing model, which supports the selection of geographical locations for Follow-the-Sun software development. The research focussed on two aspects: "the optimal time zone difference" and "the natural ease of communication" (i.e. culture and language). There is also research that studied the impact of the number of sites on working speed and accuracy in Follow-the-Sun software development \[9\]. Overall it was found that increasing the number of sites in a daily cycle increased the working speed. The number of sites had only a small impact on the accuracy. |
+| Hand-offs management | Since hand-offs are such an important aspect of Follow-the-Sun software development, recent research studied hand-offs management |Research concluded that nine aspects of management are important for improving hand-offs efficiency \[16\]: improving communication quality, ensure knowledge transfer between team members and production sites, management of hand-off's information, developing team's trust before and along the project, ensure compliance of deadlines, establishing time rules, providing proper technology and tools, delegating responsibility and coordination of task allocation. Since these aspects above are reported to increase efficiency, it was also concluded that when these aspects are taken into account the duration of the project is reduced. |
 
 # [](#header-1)12. Conclusion
 The purpose of this article was to present a comprehensive study on the FTS model for software development. Background, main ideas and  principles behind FTS were discussed followed by a brief review on Agile for FTS, advantages and limitations of FTS. One shortcoming of this article is that we have only investigated the effect of FTS on speed, not on the product quality because of lack of suitable documented references.
