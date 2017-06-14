@@ -83,8 +83,16 @@ table{
     width: 100%;
 }
 
-td{
-	width: 33%;
+.countTable table tr td:first-child {
+	width: 20%;
+}
+
+.countTable table tr td:first-child + td {
+	width: 40%;
+}
+
+.countTable table tr td:first-child + td + td {
+	width: 40%;
 }
 
 body {margin:0;}
