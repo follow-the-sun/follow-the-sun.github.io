@@ -108,7 +108,7 @@ Three important companies which documented their experience is summarized below.
 
 3. Another documented case of FTS application was by Infosys \[20\] in 2005 where FTS was applied to small subsets of the project cycle. Infosys concluded that applicability of FTS was limited and highly specific to the nature of the task at hand. Cameron \[13\] highlights the example of FTS application at EDS (now a part of HP).
 
-### [](#header-2) Case Studies: 
+### [](#header-2) Case Studies:
 
 Two case studies reported on the application of FTS in software development is elaborated below.
 
@@ -151,14 +151,9 @@ Based on these observations and the results presented in literature, it can be s
 
 # [](#header-1)9. Advantages of FTS
 
-The FTS approach utilizes distributed team members spread across time-zones to achieve a single project outcome with the main objective of gaining speed and reducing the time-to-market of a project \[13\]. This in turn increases productivity. Assuming each site has a work day of 6 hours, the project can be done with 4 sites, spread out over different time zones. Hence, assuming a work day consists of 6 hours, the project duration can be reduced by four times. Apart from this advantage, it also provides the following additional advantages:
+The FTS approach utilizes distributed team members spread across time-zones to achieve a single project outcome with the main objective of gaining speed and reducing the time-to-market of a project \[13\]. This in turn increases productivity. Beside this benefit, there are also other advantages as well which can be found on Fig. 7.
 
-* Access to global resources at lower costs, which only becomes a valid cost saving in the case where the operating and labour costs are much lower, such as in locations like India or China. But the additional cost of communicating requirements and changes on a daily basis erodes the labour cost savings to some extent.
-* It facilitates and enhances international partnerships.
-* Helps in leveraging skills and experience across all sites. The potential to leverage a broader and/or deeper skill base is a valid benefit and can offer a business unique skills otherwise unavailable and therefore provide an important competitive advantage.
-* It helps in reducing software licensing costs. When software licensing permits, there is a potential opportunity to share the license costs over more than one time zone thereby reducing the total number of licenses required.
-
-![](/images/advantage.png)
+![](/images/advantage.jpg)
 
 __Figure 7: Advantages of the FTS approach__
 
@@ -188,7 +183,7 @@ Many companies are looking for efficiency in software development in terms of qu
 
 We showed that there are three main research themes, namely challenges and best practices, location selection and hand-offs management. There exist several case and field studies over the years, which resulted in challenges and best practices of FTS. In addition, there is research about location selection and the effect of the number of selected locations. Lastly, we showed that there was a study which researched hand-offs management.
 
-Prashanth G.L, Santosh Malagi, Laurens Van Den Bercken, Ade Setyawan Sajim and Bernd Kreynen are the authors of this blog. In case of any issues with the blog, please contact: guledalprashanth@gmail.com or berd.kreynen@hotmail.com. 
+Prashanth G.L, Santosh Malagi, Laurens Van Den Bercken, Ade Setyawan Sajim and Bernd Kreynen are the authors of this blog. In case of any issues with the blog, please contact: guledalprashanth@gmail.com or berd.kreynen@hotmail.com.
 
 # [](#header-1)13. References
 \[1\] Erran Carmel, J Alberto Espinosa, and Yael Dubinsky. "follow the sun" workflow in global software development. Journal of Management Information Systems, 27(1):17-38, 2010. <!--carmel2010follow-->
