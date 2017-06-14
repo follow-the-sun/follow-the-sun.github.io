@@ -164,7 +164,7 @@ __Figure 7: Advantages of the FTS approach__
 
 # [](#header-1)10. Limitations of FTS
 
-FTS has many challenges associated with it and it also faces same challenges of GSD as it is a part of GSD.  The success cases in the Industry using FTS are rare, in part due to the lack of well-founded knowledge on applying FTS \[9\]. The implementation of FTS, if not practiced correctly, may result in failures and projects going over budget \[10\]. According to Carmel \[1\], FTS has challenges such as coordination barriers, cultural differences, and communication difficulties depicted in Figure 8.
+FTS has many challenges associated with it and it also faces same challenges of GSD as it is a part of GSD.  The success cases in the Industry using FTS are rare, in part due to the lack of well-founded knowledge on applying FTS \[9\]. The implementation of FTS, if not practiced correctly, may result in failures and projects going over budget \[10\]. According to Carmel \[1\], FTS has challenges such as coordination barriers, cultural differences, and communication difficulties depicted in Fig. 8.
 
 ![](/images/limitations.jpg)
 
@@ -187,6 +187,8 @@ We have underlined some of the essential concepts of FTS such as use of Agile fo
 Many companies are looking for efficiency in software development in terms of quality and development time. FTS could provide significant benefit in dealing with these aspects. We have showed earlier that using the concept of calendar efficiency, FTS gives lot of room for decreasing the development time. But in reality not many companies are following this methodology due to a few documented successes and a significant lag in FTS research. A key observation from this study is that even after decade long progress of FTS, its challenges are not overcome yet and it may be relevant to notice that there are no substantial benefits to FTS, thus FTS achievability is an empirical question for which a necessary first step is a consistent definition. To this end, the FTS research needs to be done comprehensively, so that companies start adopting it in real-time projects.
 
 We showed that there are three main research themes, namely challenges and best practices, location selection and hand-offs management. There exist several case and field studies over the years, which resulted in challenges and best practices of FTS. In addition, there is research about location selection and the effect of the number of selected locations. Lastly, we showed that there was a study which researched hand-offs management.
+
+Prashanth G.L, Santosh Malagi, Laurens Van Den Bercken, Ade Setyawan Sajim and Bernd Kreynen are the authors of this blog. In case of any issues with the blog, please contact: guledalprashanth@gmail.com or berd.kreynen@hotmail.com. 
 
 # [](#header-1)13. References
 \[1\] Erran Carmel, J Alberto Espinosa, and Yael Dubinsky. "follow the sun" workflow in global software development. Journal of Management Information Systems, 27(1):17-38, 2010. <!--carmel2010follow-->
